@@ -69,7 +69,7 @@ Between 2019 and 2024, the analysed healthcare system experienced consistent gro
 **Category 2: Billing & Financial Performance**
 * **Total Billing:** A substantial $1.42 billion was billed across all services, reflecting a 7% YoY increase in line with rising patient volumes.
 * **Total Billing Amount by Year:** Billing grew from $189.85M in 2019 to a peak of $286.55M in 2020, remaining broadly stable from 2021 ($280.16M) through 2023 ($281.98M), before declining to $97.82M in 2024, reflecting a partial year of data. The average line sits at $236.24M, providing a useful benchmark across the full period. Drill-down functionality allows users to explore billing trends at the Quarter and Month level.
-* **Billing by Medical Condition:** Hypertension and Diabetes generated the highest billing amounts (both approaching ~$350M over the period), followed by Obesity (~$320M). Cancer (~$140M), Arthritis (~$140M), and Asthma (~$110M) contributed the lower shares, reflecting their smaller patient volumes.
+* **Billing by Medical Condition:**  Billing by Medical Condition: Hypertension and Diabetes generated the highest billing amounts (both approaching approximately $350M over the period), followed by Obesity ($320M). Cancer ($140M), Arthritis ($140M), and Asthma ($110M) contributed the lower shares, reflecting their smaller patient volumes.
 * **Billing by Insurance Provider:** Medicare was the dominant insurance provider by total billing at $707.47M, followed by UnitedHealthCare ($426.05M), Cigna ($142.79M), and Aetna ($141.12M). The treemap visual makes these proportional differences immediately clear.
 
 image
