@@ -31,7 +31,7 @@ The data model comprises five tables capturing patient admissions, billing recor
 * % YoY Growth: Year-over-Year percentage change for Total Patients and Total Billing Amount.
 * Additional DAX measures for breakdowns by gender, age band, condition, insurance provider, and hospital.
 
-![image](visuals/pic.png)
+![image](DataModel.png)
 
 ### Field Parameter
 A dynamic field parameter was created to allow users to toggle the time axis across visuals between Month, Quarter, and Year — enabling flexible time-based analysis without duplicating charts. This was built using NAMEOF() references to the DateTable columns:
