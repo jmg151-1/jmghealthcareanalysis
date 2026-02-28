@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 
 The dataset was cleaned, aggregated, and analysed using **Power Query** and **DAX** formulas before being visualised in **Power BI** across three pages — **Overview**, **Demographics**, and **Insights** — creating a clean, modern, and fully navigable user interface.
 
-[📊 Power BI Dashboard Link]()
+[📊 Power BI Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=dc55201a-13d8-46cf-9c2e-73b1b25574e9&autoAuth=true&ctid=ef4fd2f8-4c96-45ab-9b15-7831920f55cf)
 
 
 ## Dataset Description
