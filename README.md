@@ -57,6 +57,8 @@ Between **2019** and **2024**, the analysed healthcare system experienced consis
 * **Hospital Patient Volume:** **Houston Methodist Hospital** recorded the highest patient volume at **20.4K**, followed by **Johns Hopkins Hospital (11.3K)** and **UCLA Medical Centre (6.9K)**. Northwestern Medicine, Massachusetts General, UCSF Medical Centre, and Cleveland Clinic each saw approximately **2.4K–2.5K** admissions.
 * **Condition by Hospital Matrix:** The Overview matrix highlights that **Houston Methodist Hospital** managed the highest patient counts across all conditions — most notably **Diabetes (5,104)**, **Hypertension (5,057)**, and **Obesity (4,714)**. Johns Hopkins followed with **2,813** Diabetes and **2,786** Hypertension patients.
 
+![image](Visual/UI-Overview.png)
+
 **Category 2: Billing & Financial Performance**
 * **Total Billing:** A substantial **$1.42 billion** was billed across all services, reflecting a **7% YoY** increase in line with rising patient volumes.
 * **Total Billing Amount by Year:** Billing grew from **$189.85M** in 2019 to a peak of **$286.55M** in 2020, remaining broadly stable from 2021 (**$280.16M**) through 2023 (**$281.98M**), before declining to **$97.82M** in 2024, reflecting a partial year of data. The average line sits at **$236.24M**, providing a useful benchmark across the full period. Drill-down functionality allows users to explore billing trends at the **Quarter** and **Month** level.
