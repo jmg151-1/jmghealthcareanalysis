@@ -65,6 +65,8 @@ Between **2019** and **2024**, the analysed healthcare system experienced consis
 * **Billing by Medical Condition:** **Hypertension** and **Diabetes** generated the highest billing amounts (both approaching **~$350M** over the period), followed by **Obesity (~$320M)**. **Cancer (~$140M)**, **Arthritis (~$140M)**, and **Asthma (~$110M)** contributed the lower shares, reflecting their smaller patient volumes.
 * **Billing by Insurance Provider:** **Medicare** was the dominant insurance provider by total billing at **$707.47M**, followed by **UnitedHealthCare ($426.05M)**, **Cigna ($142.79M)**, and **Aetna ($141.12M)**. The treemap visual makes these proportional differences immediately clear.
 
+![image](Visual/UI-2.png)
+
 **Category 3: Treatment & Condition Insights**
 * **Condition-Medication Matrix:** The Insights page matrix breaks down medication usage by condition across five medications — **Aspirin**, **Ibuprofen**, **Lipitor**, **Paracetamol**, and **Penicillin**. **Hypertension** and **Diabetes** patients recorded the highest medication counts overall, with Hypertension patients receiving **Penicillin** most frequently **(2,892)** and Diabetes patients receiving **Ibuprofen** and **Lipitor** at similar rates **(~2,858–2,861)**. Medication usage was broadly even across all five drugs for each condition, suggesting no single dominant treatment protocol.
 * **Condition Prevalence:** Across all admissions, **Hypertension** and **Diabetes** were the most prevalent conditions **(13,875 each)**, followed by **Obesity (12,765)**, **Cancer (5,550)**, **Arthritis (5,550)**, and **Asthma (3,885)**.
